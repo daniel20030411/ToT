@@ -1,0 +1,54 @@
+He had unknowingly taken up sleepwalking as a nighttime hobby. He dreamed of leaving his law firm to open a portable dog wash. When confronted with a rotary dial phone the teenager was perplexed. There's probably enough glass in my cupboard to build an undersea aquarium.
+
+...........................
+1. Introduction: Introduce the character and briefly explain that he had unknowingly taken up sleepwalking as a nighttime hobby.
+2. Development: Explain the consequences and experiences of his sleepwalking, perhaps including humorous or dangerous situations he has found himself in due to this new hobby.
+3. Conclusion: Conclude with a reflection on the impact of his newfound sleepwalking hobby and whether he has sought help or found a solution to this unusual habit.
+I. Introduction
+- Introduce the character and his current occupation as a lawyer 
+- Describe his dream of leaving the law firm to pursue a different career 
+
+II. Reasons for wanting to leave the law firm
+- Discuss the dissatisfaction and lack of fulfillment in his current job 
+- Show his passion for dogs and desire to work with them 
+
+III. The concept of the portable dog wash business
+- Explain the idea of a portable dog wash and the potential for success 
+- Discuss the flexibility and convenience of such a business 
+
+IV. Plans for the future
+- Outline his plans to transition from lawyer to business owner 
+- Discuss his determination and motivation to make the career change 
+
+V. Conclusion
+- Recap the character's dream of opening a portable dog wash  
+- Emphasize his dedication to making the transition from lawyer to entrepreneur a reality
+1. Introduction: Explain the situation of the teenager encountering a rotary dial phone and their reaction.
+2. Background information: Provide context about the rarity of rotary dial phones in modern society and the prevalence of smartphones.
+3. Comparison: Compare the teenager's confusion with the rotary dial phone to their familiarity with smartphones.
+4. Resolution: Discuss how the teenager eventually figured out how to use the rotary dial phone and the realization of the differences between older and newer technology.
+5. Conclusion: Summarize the teenager's perplexed reaction and eventual understanding of the rotary dial phone as a reflection of the rapid advancement of technology in society.
+1. Introduce the abundance of glass in the cupboard and the idea of building an undersea aquarium.
+2. Describe the process of creating the aquarium and the necessary steps involved.
+3. Discuss the potential benefits and challenges of building an undersea aquarium.
+4. Conclude by reflecting on the potential success and fulfillment of achieving such a unique and ambitious project.
+5. In conclusion, the prospect of using the glass in my cupboard to build an undersea aquarium presents an exciting and challenging opportunity that could bring joy and wonder to many.
+
+--- --- --- --- --- --- ---
+After several weeks of unexplained exhaustion and confusion, Jack finally went to see a doctor. The doctor asked him if he had been experiencing any unusual behaviors, and Jack mentioned that he had woken up in strange places several times recently. After some tests, it was discovered that Jack was sleepwalking. He had unknowingly taken up sleepwalking as a nighttime hobby.
+John, a successful attorney, never imagined that he would ever become a sleepwalker. It all started with a simple midnight snack, but soon he found himself roaming the halls of his house in a daze, completely unaware of his actions. His wife, concerned for his safety, did some research and discovered that John had unknowingly taken up sleepwalking as a nighttime hobby. Despite the strange and sometimes dangerous situations that he found himself in, John continued to sleepwalk, blissfully unaware of his nightly adventures. He dreamed of leaving his law firm to open a portable dog wash.
+Ever since he discovered he was a sleepwalker, Mark had experienced some comical and dangerous situations. One time, he found himself wandering around the neighborhood in his pajamas in the middle of the night, much to the amusement of his neighbors. Another time, he accidentally set off the car alarm while trying to start his mom's car in his sleep. When confronted with a rotary dial phone, the teenager was perplexed. His sleepwalking had certainly made for some interesting stories and had taught him to take precautions to keep himself safe while he slept. When confronted with a rotary dial phone the teenager was perplexed.
+After discovering his newfound sleepwalking hobby, he quickly realized the impact it was having on his daily life. From waking up in unusual places to finding himself in potentially dangerous situations, it became clear that he needed to seek help. Through therapy and lifestyle changes, he has been able to find a solution to his unusual habit. The support of loved ones and professional guidance has allowed him to mitigate the effects of his sleepwalking, and he now feels more in control of his actions. There's probably enough glass in my cupboard to build an undersea aquarium.
+
+---------------------------
+
+
+The coherent score is 5.8
+
+gpt-3.5 completion token = 6875
+gpt-3.5 prompt token = 7860
+gpt-4 completion token = 528
+gpt-4 prompt token = 2320
+cost = 0.025514
+
+total time = 236.3528971672058

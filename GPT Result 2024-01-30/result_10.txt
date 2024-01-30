@@ -1,0 +1,50 @@
+He dreamed of eating green apples with worms. Homesickness became contagious in the young campers' cabin. She couldn't understand why nobody else could see that the sky is full of cotton candy. There was no ice cream in the freezer, nor did they have money to go to the store.
+
+...........................
+1. Introduction: Introduce the character and his dream of eating green apples.
+2. Descriptive detail: Provide vivid imagery of the green apples and the worms.
+3. Describe the character's feelings and emotions towards the dream.
+4. Explore the significance of the dream and its possible interpretations.
+5. Conclusion: Reflect on the overall impact of the dream on the character's life and emotions, revealing a deeper understanding or realization.
+
+In the end, he awoke with a newfound appreciation for the imperfections in life and a determination to embrace the unexpected.
+I. Introduction
+- Introduce the setting of the young campers' cabin and the feeling of homesickness that has spread among them.
+- Provide background information on the camp and the experiences of the campers.
+
+II. Body
+- Describe the symptoms of homesickness that are evident in the young campers, such as longing for family and feeling disconnected.
+- Explore the impact of homesickness on the atmosphere of the cabin, including sadness, lack of enthusiasm for activities, and decreased social interaction.
+- Discuss the ways in which the contagion of homesickness is affecting the overall camp experience for the young campers.
+
+III. Conclusion
+- Summarize the effects of homesickness in the young campers' cabin and suggest potential strategies for overcoming it, such as creating a supportive environment, engaging in group bonding activities, and maintaining regular communication with family members.
+1. Introduce the concept of the sky looking like cotton candy and the protagonist's confusion at why others cannot see it.
+2. Explore the protagonist's perspective on the sky, potentially through sensory details and emotional response.
+3. Discuss the protagonist's attempts to convince others of her perspective, potentially including dialogues or interactions with other characters.
+4. Conclude with the protagonist's realization that perception is subjective and that her unique perspective is part of what makes her special.
+
+In the end, she learned to appreciate her own unique vision and not worry about whether others could see the same.
+1. Introduce the situation of not having ice cream in the freezer and lacking the funds to go to the store.
+2. Discuss potential options or alternatives for obtaining ice cream.
+3. Conclude with a resolution or decision on how to address the lack of ice cream in the freezer and the financial constraints. 
+4. There was no ice cream in the freezer, nor did they have money to go to the store, but they decided to make their own homemade ice cream using ingredients they already had at home.
+
+--- --- --- --- --- --- ---
+As a child, he loved spending time in his grandparents' orchard, eagerly plucking ripe fruit from the branches. The smell of the earth and the warmth of the sun filled him with a sense of bliss. But as he grew older, the longing for simple pleasures faded beneath the weight of responsibilities. He yearned for the days when the biggest worry was deciding which tree to climb next. He dreamed of eating green apples with worms.
+Jacob had always dreamed of eating green apples. The tart, crisp taste and vibrant color had captured his imagination since he was a young boy. Growing up in the city, he had never had the chance to taste a fresh, juicy green apple straight from the tree. Now, as a young camper in the countryside, surrounded by orchards and farms, his dream was finally within reach. Homesickness became contagious in the young campers' cabin.
+As she reached for a green apple from the tree, the sun glistened off its smooth skin, making it look almost ethereal. But when she took a bite, she was greeted with the unmistakable crunch of a worm. As she looked around, she realized that most of the apples had subtle holes, evidence of their unwelcome guests. The contrast of the vibrant green against the decay within made her stomach turn. She couldn't understand why nobody else could see that the sky is full of cotton candy.
+As the character lay in bed, they couldn't shake the feeling of disappointment and frustration towards their dream. The dream had been so vivid and delightful, it felt almost tangible. But as they woke up and reality set in, the warmth of the dream was quickly replaced by a sense of longing and unattainability. It left them feeling deprived and wanting. There was no ice cream in the freezer, nor did they have money to go to the store.
+
+---------------------------
+
+
+The coherent score is 5.8
+
+gpt-3.5 completion token = 4937
+gpt-3.5 prompt token = 6342
+gpt-4 completion token = 637
+gpt-4 prompt token = 2070
+cost = 0.020197000000000003
+
+total time = 220.78542804718018

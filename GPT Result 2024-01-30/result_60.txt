@@ -1,0 +1,50 @@
+For the 216th time, he said he would quit drinking soda after this last Coke. Today arrived with a crash of my car through the garage door. It was the scarcity that fueled his creativity. When she didn't like a guy who was trying to pick her up, she started using sign language.
+
+...........................
+1. Introduction: Introduce the situation of the person claiming to quit drinking soda for the 216th time.
+2. Body: Discuss the repeated pattern of the person's claims to quit drinking soda and their continued reliance on soda, particularly Coke.
+3. Conclusion: Conclude with a reflection on the likelihood of the person actually quitting drinking soda based on their history of failed attempts.
+I. Introduction
+- Introduce the event of the car crashing through the garage door 
+- Describe the scene and the immediate aftermath 
+
+II. Body
+- Discuss the cause of the crash (e.g. carelessness, distraction, mechanical failure) 
+- Describe any injuries or damage that occurred 
+- Detail the steps taken to address the situation (e.g. contacting insurance, repairing the garage door) 
+
+III. Conclusion
+- Reflect on the experience and any lessons learned 
+- Discuss any changes that will be made to prevent similar incidents in the future 
+- Emphasize the importance of being mindful and responsible while driving 
+
+Conclusion: In the end, the crash served as a humbling reminder of the potential consequences of reckless driving and the importance of taking proper precautions.
+1. Introduction: Discuss the impact of scarcity on one's creativity 
+2. Body: Explore examples where scarcity has fueled creativity in history, art, and technology 
+3. Body: Discuss how scarcity can force individuals to think outside the box and find innovative solutions 
+4. Conclusion: Emphasize the positive effects of scarcity on creativity and the importance of embracing constraints for personal growth and development. 
+
+In conclusion, scarcity can serve as a catalyst for creativity, pushing individuals to think creatively and find innovative solutions.
+1. Introduce the situation of a woman being approached by a guy she doesn't like.
+2. Explain how she began using sign language to communicate with someone across the room.
+3. Describe the man's confusion and her relief at being able to avoid an uncomfortable encounter.
+4. Conclude with the woman feeling empowered to set boundaries in social situations through nonverbal communication.
+
+--- --- --- --- --- --- ---
+David sat on the couch, nursing his third can of Coke for the day. He knew he had to cut back on his soda consumption, but the fizzy drink was just too tempting. He had tried to quit countless times before, only to find himself reaching for another can the next day. As he took the last sip, he promised himself that this would be the last time. For the 216th time, he said he would quit drinking soda after this last Coke.
+For the 216th time, I found myself claiming to quit drinking soda. It's been a never-ending battle, with countless attempts and inevitable slip-ups along the way. But today, something just feels different. As I reached for my usual can of soda, my hand hesitated, and I could feel a sense of determination building within me. However, as I headed out of the house, I made a careless mistake and arrived with a crash of my car through the garage door. Today arrived with a crash of my car through the garage door.
+Despite numerous promises and declarations to quit drinking soda, particularly Coke, the individual continued to rely on it as their go-to beverage. Their repeated pattern of reaching for a can of soda despite their intentions to quit revealed a persistent reliance on the drink that seemed to outweigh their desire to break the habit. Each time they declared they would give it up, they found themselves turning back to it in moments of weakness or stress. Even though they knew it was detrimental to their health, the allure of the familiar taste and caffeine boost proved too strong to resist. It was the scarcity that fueled his creativity.
+Based on her history of failed attempts to quit drinking soda, it seems unlikely that she will be successful this time around. Despite her determination, she has fallen back into old habits time and time again. However, with the support of her friends and family, and a strong commitment to her health, there is still hope that she can overcome her addiction to soda. It will require a great deal of perseverance and a willingness to seek out alternative coping mechanisms. When she didn't like a guy who was trying to pick her up, she started using sign language.
+
+---------------------------
+
+
+The coherent score is 4.6
+
+gpt-3.5 completion token = 5434
+gpt-3.5 prompt token = 6837
+gpt-4 completion token = 633
+gpt-4 prompt token = 2390
+cost = 0.021994
+
+total time = 244.13958954811096

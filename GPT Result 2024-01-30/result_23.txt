@@ -1,0 +1,46 @@
+The blue parrot drove by the hitchhiking mongoose. His get rich quick scheme was to grow a cactus farm. For some unfathomable reason, the response team didn't consider a lack of milk for my cereal as a proper emergency. He picked up trash in his spare time to dump in his neighbor's yard.
+
+...........................
+1. Introduction: Describe the setting and context of the scene, including the appearance of the blue parrot and the hitchhiking mongoose. 
+2. The event: Explain how the parrot drove by the mongoose, highlighting any noteworthy details or actions. 
+3. Reaction: Discuss the reaction of the mongoose to the parrot's actions, and any ensuing interactions or consequences. 
+4. Conclusion: Wrap up the narrative, drawing a final conclusion or lesson from the encounter between the two animals. 
+Concluding sentence: As the blue parrot drove by the hitchhiking mongoose, both animals were reminded of the unpredictable and surprising nature of the world they lived in.
+1. Introduction: Introduce the subject of the sentence, the "get rich quick scheme" of a man.
+
+2. Background: Provide some background information on the man and why he came up with this scheme.
+
+3. Details on the scheme: Describe how the man planned to make money through growing a cactus farm.
+
+4. Potential challenges: Discuss potential challenges or obstacles the man might face in this scheme.
+
+5. Conclusion: Summarize the potential success or failure of the scheme, and its implications.
+
+6. Concluding sentence: Despite his enthusiasm, it remains to be seen whether the cactus farm will truly bring him wealth and prosperity.
+1. Introduction: Discuss the surprising lack of urgency in a seemingly trivial situation.
+2. Body 1: Explore the specific situation of not having milk for cereal and the response team's lack of consideration. 
+3. Body 2: Express disbelief at the response team's failure to recognize the importance of even small emergencies.
+4. Conclusion: Emphasize the need for emergency response teams to be more open-minded and attentive to all types of emergencies, no matter how small they may seem.
+1. Introduction: Introduce the main character and his peculiar action of picking up trash in his spare time.
+2. Explanation: Explain the motivation behind the protagonist's odd behaviour and his intention to dump the trash in his neighbor's yard.
+3. Development: Elaborate on the consequences of the protagonist's actions and the potential conflict with the neighbor.
+4. Conclusion: Reflect on the possible resolution or fallout of the protagonist's actions and their impact on the relationship with the neighbor.
+
+--- --- --- --- --- --- ---
+As the sun began to set, the lush jungle came alive with the buzz of insects and the calls of exotic birds. The dense foliage cast long, eerie shadows as the day waned. Suddenly, a flash of vibrant blue caught my eye. A brilliant parrot soared overhead, its colorful feathers catching the last rays of sunlight. It was a breathtaking sight, a perfect end to a day of exploring the untamed wilderness. Just as I was lost in the beauty of the moment, a mangy mongoose appeared, standing by the side of the road, desperately hoping for a lift. The blue parrot drove by the hitchhiking mongoose.
+The sun beat down relentlessly on the dusty desert landscape, as a lone figure trudged along the empty road. In the distance, a blue parrot perched on a cactus, adding a splash of color to the barren scenery. As the figure continued on, they were surprised to come across a hitchhiking mongoose, looking for a ride to the nearest town. The unlikely pair made for a strange sight against the backdrop of the desert. But for the man, it was just another day in his quest for fortune. His get rich quick scheme was to grow a cactus farm.
+I woke up to the sound of alarms blaring and the smell of smoke filling my apartment. Panicked, I immediately called 911 and told them about the fire. But as I frantically requested for help, I also made sure to mention that I was out of milk for my cereal. For some unfathomable reason, the response team didn't consider a lack of milk for my cereal as a proper emergency.
+As the parrot drove by in his vibrant red convertible, he caught the attention of all the creatures in the neighborhood. The mongoose, known for his quick reflexes, was particularly impressed by the parrot's ability to navigate through traffic with ease. The parrot effortlessly weaved in and out of cars, not once breaking a sweat or losing his cool. The mongoose couldn't help but be inspired by the parrot's confidence and skill behind the wheel. He picked up trash in his spare time to dump in his neighbor's yard.
+
+---------------------------
+
+
+The coherent score is 3.4
+
+gpt-3.5 completion token = 5663
+gpt-3.5 prompt token = 6869
+gpt-4 completion token = 633
+gpt-4 prompt token = 2410
+cost = 0.022504
+
+total time = 218.93934273719788

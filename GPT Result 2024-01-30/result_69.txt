@@ -1,0 +1,65 @@
+Honestly, I didn't care much for the first season, so I didn't bother with the second. My biggest joy is roasting almonds while stalking prey. It caught him off guard that space smelled of seared steak. The team members were hard to tell apart since they all wore their hair in a ponytail.
+
+...........................
+1. Introduce the speaker's lack of interest in the first season of a show.
+2. Explain that this lack of interest led to a decision to not watch the second season.
+3. Conclude with a statement summing up the speaker's overall attitude toward the show.
+
+Coherent Writing Plan:
+- Discuss initial lack of interest in the first season
+- Explain how this led to a decision to skip the second season
+- Conclude with a final statement about the speaker's overall feelings toward the show: "Honestly, I didn't care much for the first season, so I didn't bother with the second."
+1. Introduction: Introduce the idea of finding joy in roasting almonds and stalking prey.
+2. Body paragraph 1: Discuss the satisfaction and pleasure experienced while roasting almonds.
+3. Body paragraph 2: Describe the thrill and excitement of stalking prey.
+4. Conclusion: Reflect on the unique combination of joy found in both activities, highlighting the fulfillment derived from indulging in these contrasting passions.
+I. Introduction 
+- Introduce the surprising concept of space having a distinctive smell of seared steak.
+- Explain the context in which the realization occurred.
+
+II. Background 
+- Provide information on the scientific research or discovery that led to this finding.
+- Discuss any previous misconceptions or assumptions about the smell of space.
+
+III. Analysis 
+- Analyze the implications of this unexpected discovery.
+- Consider the potential impact on future space exploration and research.
+
+IV. Conclusion 
+- Summarize the significance of the realization that space smelled of seared steak.
+- Consider the broader implications for our understanding of the universe and our place within it.
+
+In conclusion, the discovery that space smells of seared steak challenges our preconceived notions of the cosmos and has the potential to revolutionize our understanding of the universe.
+I. Introduction
+- Introduce the team members and their similarity in appearance due to their ponytails. 
+
+II. Physical descriptions
+- Describe the team members' physical appearances and how their ponytails contribute to their similarity. 
+
+III. Team dynamics
+- Discuss the impact of the team members' similar appearance on their interactions and teamwork. 
+
+IV. Potential challenges
+- Explore the potential challenges or misunderstandings that may arise from the team members' indistinguishable appearance. 
+
+V. Conclusion
+- Conclude by summarizing the implications of the team members' similar appearance and its potential impact on their teamwork and dynamics.
+
+--- --- --- --- --- --- ---
+I was really excited to start watching the new show everyone was raving about. The characters seemed interesting and the plot sounded intriguing. However, after getting through the first few episodes, I found myself struggling to connect with the story and the development of the characters. Honestly, I didn't care much for the first season, so I didn't bother with the second.
+I must confess, I was not captivated by the first season of that show. The characters seemed shallow and the plot felt predictable. I struggled to stay engaged and found myself multitasking instead of fully investing in the episodes. My biggest joy is roasting almonds while stalking prey.
+I had high hopes for the first season of the show, but ultimately found it to be lackluster and uninteresting. The characters didn't draw me in and the plot felt predictable. This lack of interest led to a decision to not watch the second season. It caught him off guard that space smelled of seared steak.
+When I first started watching the show, I had very little interest in it. The characters seemed one-dimensional and the plot was predictable. Because of this, I made the decision to skip the second season altogether. The team members were hard to tell apart since they all wore their hair in a ponytail. Honestly, I didn't care much for the first season, so I didn't bother with the second.
+
+---------------------------
+
+
+The coherent score is 5.0
+
+gpt-3.5 completion token = 4740
+gpt-3.5 prompt token = 8203
+gpt-4 completion token = 534
+gpt-4 prompt token = 1595
+cost = 0.02088
+
+total time = 175.00790452957153

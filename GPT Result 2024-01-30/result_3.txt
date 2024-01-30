@@ -1,0 +1,48 @@
+He had unknowingly taken up sleepwalking as a nighttime hobby. The overpass went under the highway and into a secret world. He found his art never progressed when he literally used his sweat and tears. It was always dangerous to drive with him since he insisted the safety cones were a slalom course.
+
+...........................
+I. Introduction
+- Introduce the main subject of the topic, sleepwalking and its impact on the individual
+
+II. Background of sleepwalking
+- Explain what sleepwalking is and its causes
+- Provide relevant statistics about sleepwalking
+
+III. Personal experience with sleepwalking
+- Describe the individual's experiences with sleepwalking 
+- Share any funny or concerning incidents related to the sleepwalking episodes
+
+IV. Impact on daily life
+- Discuss the effects of sleepwalking on the individual's personal and professional life
+- Explore the potential dangers and risks associated with sleepwalking
+
+V. Conclusion
+- Reflect on the significance of acknowledging and addressing sleepwalking as a serious issue, as it can have detrimental effects on one's well-being and safety.
+1. Introduction: Describe the overpass and its location.
+2. Body: Explain that the overpass goes under the highway and leads to a hidden or secret world.
+3. Conclusion: Summarize the mysterious and intriguing nature of the secret world beneath the overpass.
+1. Introduction: Introduce the frustrating feeling of stagnation in the artist's progress despite the physical effort put into his work.
+2. Body: Discuss the various ways in which the artist tried to advance his art, such as working long hours and pushing himself to the point of tears, but still failing to see improvement.
+3. Conclusion: Emphasize the irony of how the artist's literal blood, sweat, and tears did not lead to any progress in his art, highlighting the importance of finding the right balance between hard work and creative inspiration.
+1. Introduction: Introduce the situation of driving with the person and the dangerous behavior they exhibit with safety cones.
+2. Body: Explain the potential risks and hazards of driving with someone who sees safety cones as a slalom course and their disregard for road safety.
+3. Conclusion: Stress the importance of prioritizing safety on the road and the potential consequences of reckless driving behavior.
+
+--- --- --- --- --- --- ---
+I was starting to get worried about my roommate, John. Every morning, he would wake up in strange places around the apartment, with no memory of how he got there. It was starting to affect his work, as he was constantly tired and unable to focus. As we struggled to figure out what was going on, we soon discovered the unsettling truth. He had unknowingly taken up sleepwalking as a nighttime hobby.
+Sleepwalking, also known as somnambulism, is a sleep disorder that impacts an individual's ability to remain asleep throughout the night without trying to attempt risky behavior. People who experience sleepwalking may perform activities such as walking, sitting up, or moving items without being conscious of their actions. This can have a profound impact on the individual's safety and wellbeing, as well as the safety of those around them. The overpass went under the highway and into a secret world.
+Sleepwalking, also known as somnambulism, is a sleep disorder that causes people to get up and walk around while they are still asleep. It usually occurs during the deep stages of sleep and can be caused by a variety of factors, including genetics, sleep deprivation, stress, and alcohol consumption. According to the American Academy of Sleep Medicine, an estimated 3.6% of adults and 7% of children experience sleepwalking. It is more common in children, especially those between the ages of 4-8, and tends to run in families. Some individuals may also experience sleepwalking as a symptom of other sleep disorders, such as insomnia or sleep apnea. He found his art never progressed when he literally used his sweat and tears.
+My personal experience with sleepwalking is both concerning and comical. My brother has been a sleepwalker for as long as I can remember, and there have been numerous incidents that still make us laugh to this day. He once made himself a sandwich and left it on a neighbor's doorstep, thinking it was a gift for them. Another time, he tried to water the plants in our living room with a bottle of ketchup. It was always dangerous to drive with him since he insisted the safety cones were a slalom course.
+
+---------------------------
+
+
+The coherent score is 6.8
+
+gpt-3.5 completion token = 4743
+gpt-3.5 prompt token = 6527
+gpt-4 completion token = 530
+gpt-4 prompt token = 2410
+cost = 0.020013000000000003
+
+total time = 214.38584208488464

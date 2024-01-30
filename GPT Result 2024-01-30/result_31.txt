@@ -1,0 +1,40 @@
+It was always dangerous to drive with him since he insisted the safety cones were a slalom course. I covered my friend in baby oil. Today arrived with a crash of my car through the garage door. She couldn't understand why nobody else could see that the sky is full of cotton candy.
+
+...........................
+1. Introduce the risky behavior of driving with him due to his insistence on using safety cones as a slalom course.
+2. Discuss the potential dangers and hazards of his reckless driving habits.
+3. Describe the potential consequences of driving with him, including the risk of accidents and injuries.
+4. Conclude by emphasizing the importance of prioritizing safety and avoiding driving with someone who disregards the rules of the road. 
+
+In conclusion, it is imperative to prioritize safety and avoid driving with individuals who disregard the rules of the road and engage in reckless behavior.
+1. Introduction: Describe the scenario of covering the friend in baby oil and the reason behind it.
+2. Body paragraph 1: Discuss the process of covering the friend in baby oil and the reactions of both parties involved.
+3. Body paragraph 2: Explain the aftermath of the baby oil situation and the impact it had on the friendship.
+4. Conclusion: Reflect on the experience and its significance in the friendship, tying it back to the initial reason for covering the friend in baby oil. In the end, we both had a good laugh about it and it became a hilarious inside joke between us.
+1. Introduction: Describe the event of the car crashing through the garage door and the initial shock and confusion.
+2. Body: Explain the sequence of events leading up to the crash and the aftermath of the accident, including any damage caused and actions taken.
+3. Conclusion: Reflect on the impact of the car crash and the emotions and thoughts that followed the incident, ultimately leading to a resolution and plan for moving forward. 
+
+Conclusion: Despite the initial shock and confusion, the car crash through the garage door ultimately led to a resolution and plan for moving forward.
+1. Introduction: Introduce the concept of the speaker's perception of the sky as being full of cotton candy and her disbelief at others not being able to see the same thing.
+2. Body: Discuss the speaker's attempts to explain her perspective to others and their reactions, as well as her reflections on the nature of perception and individuality.
+3. Conclusion: Summarize the speaker's continuing bewilderment at the inability of others to see the cotton candy sky and emphasize the theme of subjective reality.
+
+--- --- --- --- --- --- ---
+Every time we got into the car with Mark, we knew it was going to be an adventure. He had a habit of pushing the limits and taking risks, especially when it came to driving. Mark would weave in and out of traffic, seemingly treating the road like a race track. It was always dangerous to drive with him since he insisted the safety cones were a slalom course.
+Despite his insistence on using safety cones as a slalom course, I am hesitant to drive with him due to the risky behavior it involves. He seems to think he's invincible, but the reality is that accidents can happen. I covered my friend in baby oil.
+His reckless driving habits pose a serious threat not only to himself but also to others on the road. Speeding, aggressive maneuvering, and distractions while driving increase the risk of accidents, injuries, and even fatalities. His disregard for traffic laws and safety regulations not only puts his own life in danger but also jeopardizes the well-being of pedestrians and other motorists. Today arrived with a crash of my car through the garage door.
+Driving with him carries the potential consequences of increased risk of accidents and injuries. His reckless behavior and lack of attention to traffic laws put not only himself but also his passengers and other drivers in danger. The possibility of a collision or physical harm is heightened when in his presence, making it crucial to prioritize safety over convenience. She couldn't understand why nobody else could see that the sky is full of cotton candy.
+
+---------------------------
+
+
+The coherent score is 4.4
+
+gpt-3.5 completion token = 4250
+gpt-3.5 prompt token = 6041
+gpt-4 completion token = 530
+gpt-4 prompt token = 1695
+cost = 0.017826
+
+total time = 184.72577047348022

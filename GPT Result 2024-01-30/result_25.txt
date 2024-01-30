@@ -1,0 +1,38 @@
+I’m a living furnace. The near-death experience brought new ideas to light. He was surprised that his immense laziness was inspirational to others. There was no ice cream in the freezer, nor did they have money to go to the store.
+
+...........................
+1. Introduction: Introduce the concept of being a living furnace and explain the meaning of the phrase.
+2. Explanation of the metaphor: Dive into the metaphorical implications of being a living furnace and how it relates to the person's internal fire and energy.
+3. Personal experiences and examples: Share personal experiences or examples of times when the person felt like a living furnace, whether it be through productivity, passion, or emotional intensity.
+4. Conclusion: Summarize the importance of embracing the fiery energy within oneself and how it can fuel one's drive and vitality.
+1. Introduction: Discuss the near-death experience and its impact on the individual's perspective.
+2. Body: Explore the new ideas that surfaced as a result of the near-death experience, including a shift in priorities, a newfound appreciation for life, and a reevaluation of personal goals and values.
+3. Body: Discuss the potential for personal growth and transformation that can result from a near-death experience, as well as the implications for future decisions and actions.
+4. Conclusion: Summarize the profound impact of the near-death experience on the individual, highlighting the emergence of new ideas and perspectives as a result of the encounter with mortality.
+1. Introduction: Introduce a character who is known for being lazy.
+2. Background: Describe the character's laziness and how it has affected his life.
+3. Main point: Explain how the character's laziness was surprisingly inspirational to others.
+4. Details: Provide specific examples of how the character's laziness has had a positive impact on others.
+5. Conclusion: Conclude by highlighting the unexpected and ironic nature of the character's laziness being seen as inspirational by others.
+I. Introduction: Introduce the problem of not having ice cream in the freezer and not having money to go to the store.
+II. Body: Discuss possible solutions to the problem, such as finding an alternative treat or borrowing money from a friend.
+III. Conclusion: Conclude by emphasizing the disappointment of not being able to enjoy ice cream and the urgency of finding a solution.
+
+--- --- --- --- --- --- ---
+I love to snuggle up in a warm blanket and sip hot cocoa by the fireplace. There’s just something about the crackling sound of the wood and the gentle heat that makes me feel so cozy. I could spend hours just basking in the warmth and feeling my muscles loosen up. Whether it’s the dead of winter or a chilly fall evening, I’m always drawn to the heat. I’m a living furnace.
+The concept of being a living furnace is a metaphor for the body's ability to generate and radiate heat. Just like a furnace, our bodies maintain a constant temperature to support various metabolic processes. This phrase also reflects the idea that our bodies produce energy and warmth through the combustion of nutrients. Additionally, it highlights the resilience and vitality of the human body. The near-death experience brought new ideas to light.
+The metaphor of being a living furnace relates to the idea of someone having a powerful internal fire and energy that drives them. This metaphor suggests that the individual is constantly burning with passion, motivation, and drive, much like the intense heat and energy of a furnace. It implies that the person is filled with a relentless determination and strength that propels them forward in pursuit of their goals and ambitions. This metaphor also conveys a sense of warmth, vitality, and intensity that emanates from the individual, making others drawn to their energy and presence. He was surprised that his immense laziness was inspirational to others.
+When I was in college, I remember a time when I was so focused on a research project that I felt like a living furnace of productivity. I spent days pouring over books and articles, consuming copious amounts of coffee, and barely sleeping. My passion for the topic fueled me to work tirelessly, and I was churning out page after page of content. The emotional intensity of the project was palpable, and I was completely consumed by it. There was no ice cream in the freezer, nor did they have money to go to the store.
+
+---------------------------
+
+
+The coherent score is 6.0
+
+gpt-3.5 completion token = 4908
+gpt-3.5 prompt token = 6304
+gpt-4 completion token = 484
+gpt-4 prompt token = 2195
+cost = 0.019767000000000003
+
+total time = 184.90670084953308

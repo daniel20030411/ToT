@@ -1,0 +1,65 @@
+There's probably enough glass in my cupboard to build an undersea aquarium. He was disappointed when he found the beach to be so sandy and the sun so sunny. She looked into the mirror and saw another person. The sudden rainstorm washed crocodiles into the ocean.
+
+...........................
+1. Introduction: Introduce the idea of having a surplus of glass in the cupboard.
+2. Explanation: Discuss the potential use of the glass to build an undersea aquarium.
+3. Elaboration: Detail the process of using the glass to construct the aquarium.
+4. Conclusion: Emphasize the potential of the surplus glass in the cupboard. 
+5. Conclusion: The surplus glass in my cupboard could potentially be utilized to construct a unique and imaginative undersea aquarium.
+1. Introduce the perspective of the subject and establish his initial expectations of the beach.
+2. Expand on his feelings of disappointment upon discovering the sandy beach and sunny weather.
+3. Discuss any further reactions or thoughts he has on the situation.
+
+Conclusion: Ultimately, he realized that the idyllic image of the beach in his mind did not align with the reality, prompting him to reevaluate his expectations and find a way to appreciate the natural beauty of the sandy beach and sunny weather.
+I. Introduction
+A. Describe the moment she looks in the mirror
+B. Set the tone for the surprising discovery
+
+II. The reflection
+A. Describe the other person she sees
+B. Detail her reaction and emotions
+
+III. The realization
+A. Explain the significance of the discovery
+B. Explore her thoughts and reactions
+
+IV. Conclusion
+A. Reflect on the impact of seeing another person in the mirror
+B. Conclude with a thought-provoking statement about identity and self-perception
+
+In a split second, she realized that the person she saw in the mirror was not a stranger, but an unrecognizable version of herself.
+I. Introduction
+- Introduce the sudden rainstorm and its impact on the environment.
+
+II. Background
+- Explain how crocodiles are not typically found in the ocean and their usual habitat.
+
+III. Events
+- Describe the crocodiles being washed into the ocean by the rainstorm.
+
+IV. Consequences
+- Discuss the potential effects of crocodiles in the ocean and the danger it poses to marine life and humans.
+
+V. Conclusion
+- Emphasize the unusual and potentially dangerous situation of crocodiles in the ocean and the need for action to address the issue. 
+
+In conclusion, the sudden rainstorm washed crocodiles into the ocean, creating an unusual and potentially dangerous situation for marine life and humans.
+
+--- --- --- --- --- --- ---
+I've always been fascinated by marine life, and my collection of seashells and coral reflects that. But lately, I've been thinking about taking my hobby to the next level. I have a rather extensive collection of glassware, from old jam jars to fancy wine glasses. There's probably enough glass in my cupboard to build an undersea aquarium.
+When it comes to stocking our cupboards, it's easy to find that we have a surplus of certain items. One common culprit that seems to multiply on its own is glassware. Maybe we have accumulated sets from different occasions, or received them as gifts, but whatever the reason, it seems like there are always more glasses than we need. He was disappointed when he found the beach to be so sandy and the sun so sunny.
+The potential use of glass to build an undersea aquarium is vast. Glass is transparent, allowing visitors to see the aquatic life surrounding them from all angles. It is also durable and resistant to the corrosive effects of saltwater, making it an ideal material for constructing large underwater enclosures. Additionally, the use of glass can create a sense of immersion, allowing visitors to feel as though they are truly part of the underwater environment. Overall, the use of glass in building an undersea aquarium offers endless possibilities for creating a truly captivating and educational experience for visitors. She looked into the mirror and saw another person.
+To construct the aquarium, the first step is to select the appropriate glass for the tank. This glass should be thick and durable, able to withstand the pressure of large volumes of water. Once the glass is selected, it is carefully cut and shaped to fit the desired dimensions of the aquarium. The pieces are then sealed together using a high-strength adhesive to ensure no leaks can occur. Finally, the tank is filled with water and checked for any potential weak spots. The sudden rainstorm washed crocodiles into the ocean.
+
+---------------------------
+
+
+The coherent score is 6.4
+
+gpt-3.5 completion token = 5016
+gpt-3.5 prompt token = 6531
+gpt-4 completion token = 608
+gpt-4 prompt token = 2135
+cost = 0.020522000000000002
+
+total time = 194.72937774658203

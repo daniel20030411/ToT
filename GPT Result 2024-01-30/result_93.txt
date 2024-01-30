@@ -1,0 +1,43 @@
+A glittering gem is not enough. Honestly, I didn't care much for the first season, so I didn't bother with the second. He decided that the time had come to be stronger than any of the excuses he'd used until then. She couldn't understand why nobody else could see that the sky is full of cotton candy.
+
+...........................
+1. Introduction: Start by explaining the significance of a glittering gem, its beauty, and value.
+2. Point 1: Discuss the limitations of a glittering gem, such as its lack of practical usefulness or its inability to bring genuine happiness.
+3. Point 2: Explore the idea that true value lies in qualities like integrity, kindness, and compassion, rather than just external beauty or material wealth.
+4. Conclusion: Emphasize the importance of looking beyond superficial appearances and material possessions to find true fulfillment and meaning in life. 
+5. Conclusion sentence: Ultimately, while a glittering gem may be visually stunning, it is the depth of character and inner qualities that truly define a person's worth.
+Introduction: Share personal opinion about the first season (Didn't care much for it).
+Body: Explanation of how this opinion impacted decision not to watch the second season.
+Conclusion: Final decision not to bother with the second season.
+1. Introduce the decision made by "he" to overcome his excuses and become stronger.
+2. Discuss the reasons and motivation behind his decision.
+3. Explore the potential challenges and obstacles he may face in achieving his goal.
+4. Offer potential strategies and actions he can take to reinforce his determination.
+5. Conclude with a statement about his commitment to change and the potential positive impact on his life. 
+6. Final sentence: With unwavering determination, he set out to conquer his excuses and become the strongest version of himself.
+1. Introduce the protagonist's confusion about why others can't see the cotton candy sky.
+2. Provide background on the protagonist's perception of the sky.
+3. Explore the protagonist's attempts to explain the sky to others.
+4. Show the protagonist's feelings of isolation and frustration.
+5. Conclude with the protagonist's acceptance of their unique perspective on the sky.
+
+In the end, she realized that the beauty of the cotton candy sky was meant for her own enjoyment and no one else's, cherishing the special connection she had with the world around her.
+
+--- --- --- --- --- --- ---
+When it comes to achieving success, many people believe that having talent or natural abilities is all it takes. However, talent alone is not sufficient for achieving greatness. Hard work, dedication, and perseverance are just as important, if not more so. Without putting in the necessary effort and continuously honing one's skills, even the most naturally gifted individuals will struggle to reach their full potential. A glittering gem is not enough.
+A glittering gem is a symbol of beauty and value. Its radiant sparkle and captivating colors make it a coveted and precious possession. Whether it's a diamond, sapphire, or emerald, each gem has its own unique allure that has been admired for centuries. The rarity and quality of a gem also contribute to its value, making it a desirable item for collectors and jewelry enthusiasts. Honestly, I didn't care much for the first season, so I didn't bother with the second.
+While a glittering gem may be visually stunning and symbolize wealth or status, it lacks practical usefulness in everyday life. It cannot provide genuine happiness nor fulfill our basic needs. Its value is primarily material and its beauty is often fleeting. In the end, the pursuit of possessions like glittering gems can distract us from what truly brings us fulfillment and contentment. He decided that the time had come to be stronger than any of the excuses he'd used until then.
+In a world that often prioritizes external beauty and material wealth, it is crucial to explore the idea that true value lies in qualities like integrity, kindness, and compassion. These are the attributes that truly make a person beautiful and contribute to a fulfilling and meaningful life. While material wealth may bring temporary satisfaction, it is the depth of one's character and their ability to be kind and compassionate that leaves a lasting impact. Despite the allure of superficial qualities, it is important to recognize that true fulfillment and happiness come from within. She couldn't understand why nobody else could see that the sky is full of cotton candy.
+
+---------------------------
+
+
+The coherent score is 6.0
+
+gpt-3.5 completion token = 6474
+gpt-3.5 prompt token = 7412
+gpt-4 completion token = 597
+gpt-4 prompt token = 2200
+cost = 0.024350999999999998
+
+total time = 220.44104433059692

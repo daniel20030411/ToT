@@ -1,0 +1,44 @@
+For some unfathomable reason, the response team didn't consider a lack of milk for my cereal as a proper emergency. He turned in the research paper on Friday; otherwise, he would have not passed the class. Her hair was windswept as she rode in the black convertible. Karen realized the only way she was getting into heaven was to cheat.
+
+...........................
+1. Introduce the situation of the response team not considering a lack of milk for cereal as a proper emergency.
+2. Provide reasons or examples of why it should have been considered an emergency.
+3. Discuss the potential consequences of not treating it as an emergency.
+4. Conclude with a strong statement emphasizing the absurdity of the response team's decision. 
+
+In conclusion, the response team's failure to recognize the significance of a lack of milk for cereal as an emergency underscores a fundamental disconnect between their priorities and the needs of those they serve.
+1. Introduce the situation of him turning in the research paper on Friday to pass the class. 
+2. Discuss the consequence of not turning in the paper, which would have resulted in him failing the class. 
+3. Cite the direct cause and effect relationship between turning in the paper and passing the class. 
+
+In conclusion, turning in the research paper on Friday was crucial for him to pass the class, emphasizing the direct correlation between the two events.
+- Introduction: Describe the setting - a beautiful, sunny day with the wind blowing through the protagonist's hair as she rides in a black convertible.
+
+- Body: Paint a picture of the protagonist's windswept hair, the feeling of freedom and exhilaration as she rides with the top down, and the sights and sounds of the open road.
+
+- Conclusion: Reflect on the sense of adventure and empowerment that comes with riding in the convertible, and how it makes the protagonist feel alive and free.
+1. Intro: Introduce Karen and her realization that she needs to cheat to get into heaven. 
+2. Background: Explain why Karen feels the need to cheat in order to achieve her goal. 
+3. Development: Discuss the potential consequences of her decision to cheat and the ethical implications. 
+4. Conclusion: Final thoughts on Karen's realization and the consequences of her actions. 
+
+In conclusion, Karen's realization that the only way to get into heaven was to cheat leads her to consider the ethical implications and potential consequences of her decision.
+
+--- --- --- --- --- --- ---
+I woke up to the sound of my fire alarm blaring and the smell of smoke filling my apartment. Panicked, I quickly dialed 911 and waited for the response team to arrive. As I stood outside in my pajamas, I couldn't help but feel a pang of worry for my breakfast - without milk, my cereal just wouldn't be the same. For some unfathomable reason, the response team didn't consider a lack of milk for my cereal as a proper emergency.
+The response team was called to a house with a report of an emergency, but when they arrived, they were surprised to find out that the emergency was actually a lack of milk to put on the homeowner's cereal. Despite the homeowner's insistence that this was indeed an emergency, the response team had to explain that they were there to handle more serious situations. The homeowner was frustrated, but eventually realized that a lack of milk for cereal was not considered a proper emergency. He turned in the research paper on Friday; otherwise, he would have not passed the class.
+The car accident should have been considered an emergency because the driver was unconscious and bleeding profusely. With no one else around to help, it was clear that immediate medical attention was necessary to save the driver's life. Additionally, the car was leaking gasoline and there was a risk of fire or explosion. Furthermore, the accident occurred in a remote area, making it difficult for emergency services to reach the scene quickly. Her hair was windswept as she rode in the black convertible.
+When an emergency is not treated as such, the potential consequences can be severe. Delaying treatment or ignoring the urgency of a situation can lead to further complications, increased suffering, and even death. In the case of a medical emergency, not seeking immediate help can result in irreversible damage to the body or loss of life. Similarly, ignoring a financial emergency may lead to mounting debt and insurmountable financial burden. It is important to recognize and respond to emergencies promptly in order to prevent further harm and mitigate the potential consequences. Karen realized the only way she was getting into heaven was to cheat.
+
+---------------------------
+
+
+The coherent score is 4.4
+
+gpt-3.5 completion token = 4107
+gpt-3.5 prompt token = 6245
+gpt-4 completion token = 557
+gpt-4 prompt token = 2345
+cost = 0.018475
+
+total time = 181.5846357345581
