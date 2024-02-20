@@ -1,6 +1,5 @@
 # How to initialize git temp
 cd "your directory"
-
 git init
 
 # First time using git
