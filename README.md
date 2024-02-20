@@ -1,9 +1,11 @@
 # How to initialize git temp
 cd "your directory"
+
 git init
 
 # First time using git
 git config --global user.name "Your Name"
+
 git config --global user.email "your.email@example.com"
 git remote add origin "repository URL"
 #check existing URL: git remote -v
